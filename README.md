@@ -43,6 +43,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/WCLVXIkZDN.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+<img src='http://g.recordit.co/0qRXm3eeSd.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 GIF created with Recordit.com
 
