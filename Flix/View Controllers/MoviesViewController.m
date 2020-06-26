@@ -119,7 +119,9 @@ completion:^{
     
     NSURL *posterURL = [NSURL URLWithString: fullPosterURLString];
     cell.posterView.image = nil;
-    [cell.posterView setImageWithURL: posterURL];
+   [cell.posterView setImageWithURL: posterURL];
+   
+
     //NSLog(@"%@", [NSString stringWithFormat: @"row: %d, section %d", indexPath.row,indexPath.section]);
     //cell.textLabel.text = movie[@"title"];
     //cell.textLabel.text = [NSString stringWithFormat: @"row: %d, section %d", indexPath.row,indexPath.section];
