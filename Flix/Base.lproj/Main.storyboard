@@ -200,7 +200,7 @@
         <scene sceneID="TSv-Bi-3wr">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="JRJ-q4-uDl" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Now Playing" id="cBe-a3-38a"/>
+                    <tabBarItem key="tabBarItem" title="Now Playing" image="now_playing_tabbar_item" id="cBe-a3-38a"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="zQ1-gZ-p2x">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
@@ -215,11 +215,11 @@
             </objects>
             <point key="canvasLocation" x="164" y="110"/>
         </scene>
-        <!--Item-->
+        <!--Action/Adventure-->
         <scene sceneID="vap-BA-k8q">
             <objects>
                 <navigationController id="xwC-gc-0pU" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="k0C-iB-hAb"/>
+                    <tabBarItem key="tabBarItem" title="Action/Adventure" image="ticket_tabbar_icon" id="k0C-iB-hAb"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="Uef-w1-1Nm">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -233,4 +233,8 @@
             <point key="canvasLocation" x="1651" y="111"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="now_playing_tabbar_item" width="21" height="21"/>
+        <image name="ticket_tabbar_icon" width="25" height="25"/>
+    </resources>
 </document>
